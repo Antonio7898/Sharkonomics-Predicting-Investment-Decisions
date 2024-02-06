@@ -1,6 +1,6 @@
 # Sharkonomics : Predicting Investment Decisions
-The project is a simulation of shark tank, where the input features are
-company valuation, gross margin, revenue, and current funding.
+This project aims to develop a model that predicts the likelihood of each Shark Tank investor making a deal, along with the potential investment range. 
 
-The output is a classification model for each shark, which predicts
-whether they will invest or not, and how much they will invest
+By analyzing features such as company valuation, gross margin, revenue, current funding, product category, and pitch quality, the model aims to uncover valuable insights into successful pitches and investor preferences. 
+
+This information can be valuable for entrepreneurs seeking investment, as well as investors looking for promising opportunities.
