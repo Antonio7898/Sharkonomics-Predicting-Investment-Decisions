@@ -1,4 +1,4 @@
-# Shark_Tank_Simulation
+# Sharkonomics : Predicting Investment Decisions
 The project is a simulation of shark tank, where the input features are
 company valuation, gross margin, revenue, and current funding.
 
